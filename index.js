@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-let newID=oldID+100000
+const newID=oldID+10000000 + oldID
